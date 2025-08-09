@@ -1,7 +1,7 @@
 // let firstname="Vijay";
-// let age=19;
+// let age=20;
 // let isMarried=false;
-// console.log("This persons's name is "+firstname+" and his age is "+ age);
+// console.log("This iiiii persons's name is "+firstname+" and his age is "+ age);
 // if(isMarried){
 //     console.log(firstname+" is married");
 // }else{
@@ -9,11 +9,11 @@
 // }
 
 
-// let answer=0;
+// let answerss=0;
 // for(let i=0;i<100;i++){
-//     answer=answer+i;
+//     answerss=answerss+i;
 // }
-// console.log(answer);
+// console.log(answerss);
 
 // const ages=[21,22,23,24,25];
 // let count=0;
@@ -45,4 +45,4 @@
 //     sum=sum+i;
 // }
 // console.log(sum);
-
+console.log("Hello Vijay");
